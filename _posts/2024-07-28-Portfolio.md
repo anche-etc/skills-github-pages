@@ -1,4 +1,3 @@
-
 # Antonia's Technical Writing Portfolio
 
 ##### Last Updated: 2024-07-28
@@ -14,3 +13,7 @@ I have recently transitioned my professional interest and activities towards tec
 The writing samples I have included are a how-to guide, a recommendation report and a user guide. I wish to update this page with more information as I progress.
 
 I hope this insight into my technical writing portfolio will provide you some assurance of my technical writing skills. Please have a look at my [LinkedIn profile](https://www.linkedin.com/in/antoniachela).
+
+Thank you!
+
+**Antonia**
