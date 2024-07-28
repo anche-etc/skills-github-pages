@@ -1,4 +1,4 @@
-# Antonia's Technical Writing Portfolio
+# Antonia's Technical Writing Portfolio 
 
 ##### Last Updated: 2024-07-28
 
@@ -17,3 +17,7 @@ I hope this insight into my technical writing portfolio will provide you some as
 Thank you!
 
 **Antonia**
+
+---
+
+
